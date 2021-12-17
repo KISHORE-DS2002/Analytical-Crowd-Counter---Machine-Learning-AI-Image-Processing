@@ -2,4 +2,5 @@
 It is a crowd counting software that would count the number of people in a crowd video and also the number of social distancing violations and is capable of mailing and sending a WhatsApp alert message in case of increase in number of social distancing violation count
 
 The "abcd.jpg" shows the way to run the software
-Enter the mail (Line 147) and phone number (Line 155) in the count_crowd.py file for proper functioning
+
+Enter the mail id (Line 147) and the phone number (Line 155) in the count_crowd.py file for proper functioning
